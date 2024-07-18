@@ -5,6 +5,8 @@
 The goal of this project is to predict LiP-MS (limited proteolysis coupled to mass spectrometry) signals which indicate protein structural changes under osmotic stress, using advanced machine learning techniques including protein language models (PLMs).
 
 ## Organization
+### 0. training_data_analysis
+This section shows the distribution of the training data compared to the unused data. The effects of the data being chosen based on their q-values can be observed. 
 
 ### 1. data_preparation
 
